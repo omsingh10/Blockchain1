@@ -16,6 +16,7 @@ A comprehensive blockchain-powered platform that ensures end-to-end visibility, 
 - **Payment System**: Secure cryptocurrency payments with escrow functionality
 
 ## Technology Stack
+humans
 
 ### Backend
 - Node.js
