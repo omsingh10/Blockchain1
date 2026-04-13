@@ -15,7 +15,7 @@ A comprehensive blockchain-powered platform that ensures end-to-end visibility, 
 - **Role-Based Access Control**: Different access levels for manufacturers, distributors, retailers, and customers
 - **Payment System**: Secure cryptocurrency payments with escrow functionality
 
-## Technology Stack
+## Technology Stack    m
 humans
 
 ### Backend
