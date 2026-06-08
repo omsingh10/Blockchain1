@@ -3,7 +3,7 @@ f# Blockchain-Based Supply Chain Management System
 A comprehensive blockchain-powered platform that ensures end-to-end visibility, security, and efficiency in the supply chain. The platform provides real-time, immutable tracking of goods, enabling stakeholders to access verified and tamper-proof data at every stage of the product journey.
 
 ## Features
-]\]iiubi
+
 - **End-to-End Product Tracking**: Real-time tracking of products from manufacturer to customer
 - **Document Verification**: Secure storage and verification of supply chain documents
 - **Smart Contract Automation**: Automated payments, compliance checks, and transaction validationfff
@@ -12,7 +12,7 @@ A comprehensive blockchain-powered platform that ensures end-to-end visibility, 
 - **Payment System**: Secure cryptocurrency payments with escrow functionality
 fff
 ## Technology Stack    m
-humans
+
 
 ### Backend
 - Node.jshhhhh
