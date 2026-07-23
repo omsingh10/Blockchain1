@@ -13,7 +13,7 @@ zz
 - **Role-Based Access Control**: Different access levels for manufacturers, distributors, retailers, and customers
 - **Payment System**: Secure cryptocurrency payments with escrow functionality
 fff
-## Technology Stack    mcc
+## Technology Stack    mccdcddd
 
 gf  
 ### Backend
